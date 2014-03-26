@@ -1,2 +1,2 @@
-Create two Objects 
-Texture each object with a different texture
+Create two Objects .
+Texture each object with a different texture.
