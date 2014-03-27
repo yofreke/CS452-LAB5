@@ -1,2 +1,2 @@
-Create two Objects .
-Texture each object with a different texture.
+Create one Object (no points or lines). Can be a 2d plane or a 3d object.
+Texture the object.
